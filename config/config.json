@@ -1,0 +1,6 @@
+﻿{
+    "target_extensions": [".dll", ".so", ".jar", ".pyc", ".pyd", ".node"],
+    "target_folders": ["node_modules", "site-packages", "lib", "bin", "vendor"],
+    "exclude_dirs": ["$Recycle.Bin", "System Volume Information", "Windows/Temp"],
+    "db_path": "data/db/libs_index.db"
+}
